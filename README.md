@@ -1,3 +1,3 @@
 # CodeChef Practice Problems
 
-This is the practice programming concept lab repository where i am pushing all the problems i am practicing on CodeChef. 
+This is the practice Programming lab repository. Here i am used to push all the problems in programming concepts and data structures also.
